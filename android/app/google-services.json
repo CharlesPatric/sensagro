@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "876597069023",
+    "project_id": "sensoresfca",
+    "storage_bucket": "sensoresfca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876597069023:android:3c0132e4f739ba0824956a",
+        "android_client_info": {
+          "package_name": "com.elbservicios.sensagro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwvoMEem8IH22j3QlYyCcIz2kCB4S8gvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
